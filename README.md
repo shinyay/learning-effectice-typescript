@@ -1,4 +1,4 @@
-# Name
+# Learning Effective TypeScript
 
 Overview
 
