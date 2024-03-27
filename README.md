@@ -1,5 +1,7 @@
 # Learning Effective TypeScript
 
+I'm learning the folloiwing content:
+
 - [Effective TypeScript](https://learning.oreilly.com/library/view/effective-typescript/9781492053736/)
 
 ## Description
