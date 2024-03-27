@@ -18,5 +18,6 @@ for (const state of states) {
     console.log(state.capital);
 }
 
+// TypeError: Cannot read properties of undefined (reading 'toUpperCase')
 // const names = ['Alice', 'Bob'];
 // console.log(names[2].toUpperCase());
