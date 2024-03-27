@@ -17,3 +17,6 @@ const states: State[] = [
 for (const state of states) {
     console.log(state.capital);
 }
+
+// const names = ['Alice', 'Bob'];
+// console.log(names[2].toUpperCase());
