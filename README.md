@@ -1,6 +1,6 @@
 # Learning Effective TypeScript
 
-Overview
+- [Effective TypeScript](https://learning.oreilly.com/library/view/effective-typescript/9781492053736/)
 
 ## Description
 
