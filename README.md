@@ -1,5 +1,7 @@
 # Learning Effective TypeScript
 
+![Effective TypeScript](https://learning.oreilly.com/covers/urn:orm:book:9781492053736/400w/)
+
 I'm learning TypeScript with the folloiwing content:
 
 - [Effective TypeScript](https://learning.oreilly.com/library/view/effective-typescript/9781492053736/)
